@@ -1,0 +1,41 @@
+com.example.my_map.app-jetified-play-services-base-18.0.1-0 /Users/Djbkay/.gradle/caches/transforms-3/05d1435684861c80b7352010f3878dca/transformed/jetified-play-services-base-18.0.1/res
+com.example.my_map.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-1 /Users/Djbkay/.gradle/caches/transforms-3/0ffbdfcadb71e0a9d41ca802b28f6974/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.my_map.app-jetified-play-services-maps-18.2.0-2 /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/res
+com.example.my_map.app-lifecycle-livedata-core-2.7.0-3 /Users/Djbkay/.gradle/caches/transforms-3/1561fead4024f9b9cdee719f01bdb430/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.my_map.app-jetified-core-1.0.0-4 /Users/Djbkay/.gradle/caches/transforms-3/1c5f6db43d131463afca7e0462ec6152/transformed/jetified-core-1.0.0/res
+com.example.my_map.app-core-runtime-2.2.0-5 /Users/Djbkay/.gradle/caches/transforms-3/2874df0f81244a83e147dc16d9c51e26/transformed/core-runtime-2.2.0/res
+com.example.my_map.app-jetified-window-java-1.2.0-6 /Users/Djbkay/.gradle/caches/transforms-3/3ef162224f371787e5c8dc68312129f9/transformed/jetified-window-java-1.2.0/res
+com.example.my_map.app-jetified-datastore-preferences-1.0.0-7 /Users/Djbkay/.gradle/caches/transforms-3/400149c275441aff33612cbedf89d0f3/transformed/jetified-datastore-preferences-1.0.0/res
+com.example.my_map.app-browser-1.8.0-8 /Users/Djbkay/.gradle/caches/transforms-3/4bd76a0c32aabefcdfd355161b939ac5/transformed/browser-1.8.0/res
+com.example.my_map.app-core-1.13.1-9 /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/res
+com.example.my_map.app-jetified-android-maps-utils-3.6.0-10 /Users/Djbkay/.gradle/caches/transforms-3/54ee222850766ee8493ac52677574acc/transformed/jetified-android-maps-utils-3.6.0/res
+com.example.my_map.app-jetified-lifecycle-livedata-core-ktx-2.7.0-11 /Users/Djbkay/.gradle/caches/transforms-3/6da0e15fe277d03192fadf049fb88f55/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.example.my_map.app-jetified-profileinstaller-1.3.1-12 /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/res
+com.example.my_map.app-jetified-startup-runtime-1.1.1-13 /Users/Djbkay/.gradle/caches/transforms-3/72d73aa9f2b0d4a60d769cc82fe58f41/transformed/jetified-startup-runtime-1.1.1/res
+com.example.my_map.app-lifecycle-viewmodel-2.7.0-14 /Users/Djbkay/.gradle/caches/transforms-3/7b93728c23c58fb4966a93fd781d42c6/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.my_map.app-lifecycle-runtime-2.7.0-15 /Users/Djbkay/.gradle/caches/transforms-3/8968819bfcadfd25d9ed1488e55fb43d/transformed/lifecycle-runtime-2.7.0/res
+com.example.my_map.app-jetified-play-services-basement-18.0.0-16 /Users/Djbkay/.gradle/caches/transforms-3/8a44e3ec56e942ca26fe6c430801b79d/transformed/jetified-play-services-basement-18.0.0/res
+com.example.my_map.app-fragment-1.7.1-17 /Users/Djbkay/.gradle/caches/transforms-3/902e93687bfec424d7d681c16d78dd10/transformed/fragment-1.7.1/res
+com.example.my_map.app-jetified-activity-1.8.1-18 /Users/Djbkay/.gradle/caches/transforms-3/a1a7f2ab517b2b49983b681fd36819b8/transformed/jetified-activity-1.8.1/res
+com.example.my_map.app-jetified-core-ktx-1.13.1-19 /Users/Djbkay/.gradle/caches/transforms-3/a374ebd3eb9aca2cfd2e4d2ed2f0ed1b/transformed/jetified-core-ktx-1.13.1/res
+com.example.my_map.app-jetified-window-1.2.0-20 /Users/Djbkay/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/res
+com.example.my_map.app-jetified-tracing-1.2.0-21 /Users/Djbkay/.gradle/caches/transforms-3/b6393f1bc40143c1a43b027ef1bf8c49/transformed/jetified-tracing-1.2.0/res
+com.example.my_map.app-jetified-annotation-experimental-1.4.0-22 /Users/Djbkay/.gradle/caches/transforms-3/bbfbfcd66d57b964cd3d944ae6910e1b/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.my_map.app-jetified-datastore-1.0.0-23 /Users/Djbkay/.gradle/caches/transforms-3/bff188d5b09622071b7a9fee42deea2c/transformed/jetified-datastore-1.0.0/res
+com.example.my_map.app-lifecycle-livedata-2.7.0-24 /Users/Djbkay/.gradle/caches/transforms-3/c8104be4ee8049739ee8a5cef3e0da67/transformed/lifecycle-livedata-2.7.0/res
+com.example.my_map.app-jetified-savedstate-1.2.1-25 /Users/Djbkay/.gradle/caches/transforms-3/e31bf8eb61c587fe74f52284c4da4d09/transformed/jetified-savedstate-1.2.1/res
+com.example.my_map.app-jetified-lifecycle-process-2.7.0-26 /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/res
+com.example.my_map.app-debug-27 /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/debug/res
+com.example.my_map.app-main-28 /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/res
+com.example.my_map.app-pngs-29 /Users/Djbkay/Desktop/my_schoolbus_app /build/app/generated/res/pngs/debug
+com.example.my_map.app-resValues-30 /Users/Djbkay/Desktop/my_schoolbus_app /build/app/generated/res/resValues/debug
+com.example.my_map.app-rs-31 /Users/Djbkay/Desktop/my_schoolbus_app /build/app/generated/res/rs/debug
+com.example.my_map.app-mergeDebugResources-32 /Users/Djbkay/Desktop/my_schoolbus_app /build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.my_map.app-mergeDebugResources-33 /Users/Djbkay/Desktop/my_schoolbus_app /build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.my_map.app-merged_res-34 /Users/Djbkay/Desktop/my_schoolbus_app /build/app/intermediates/merged_res/debug
+com.example.my_map.app-packaged_res-35 /Users/Djbkay/Desktop/my_schoolbus_app /build/app_links/intermediates/packaged_res/debug
+com.example.my_map.app-packaged_res-36 /Users/Djbkay/Desktop/my_schoolbus_app /build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
+com.example.my_map.app-packaged_res-37 /Users/Djbkay/Desktop/my_schoolbus_app /build/google_maps_flutter_android/intermediates/packaged_res/debug
+com.example.my_map.app-packaged_res-38 /Users/Djbkay/Desktop/my_schoolbus_app /build/path_provider_android/intermediates/packaged_res/debug
+com.example.my_map.app-packaged_res-39 /Users/Djbkay/Desktop/my_schoolbus_app /build/shared_preferences_android/intermediates/packaged_res/debug
+com.example.my_map.app-packaged_res-40 /Users/Djbkay/Desktop/my_schoolbus_app /build/url_launcher_android/intermediates/packaged_res/debug
