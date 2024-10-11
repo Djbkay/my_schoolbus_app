@@ -92,6 +92,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "fixnum",
+      "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/fixnum-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///Users/Djbkay/Desktop/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -128,6 +134,42 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "geolocator",
+      "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/geolocator-13.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "geolocator_android",
+      "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/geolocator_android-4.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "geolocator_apple",
+      "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "geolocator_platform_interface",
+      "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/geolocator_platform_interface-4.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "geolocator_web",
+      "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/geolocator_web-4.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "geolocator_windows",
+      "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/geolocator_windows-0.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
       "name": "google_maps",
       "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/google_maps-8.1.1",
       "packageUri": "lib/",
@@ -141,7 +183,7 @@
     },
     {
       "name": "google_maps_flutter_android",
-      "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/google_maps_flutter_android-2.14.8",
+      "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/google_maps_flutter_android-2.14.9",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -392,6 +434,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "sprintf",
+      "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "stack_trace",
       "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/stack_trace-1.11.1",
       "packageUri": "lib/",
@@ -500,6 +548,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "uuid",
+      "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/uuid-4.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///Users/Djbkay/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
@@ -548,7 +602,7 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-10-09T11:47:26.444007Z",
+  "generated": "2024-10-10T21:35:45.492215Z",
   "generator": "pub",
   "generatorVersion": "3.5.3",
   "flutterRoot": "file:///Users/Djbkay/Desktop/flutter",

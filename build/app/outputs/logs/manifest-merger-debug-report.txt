@@ -1,111 +1,125 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:2:5-36:19
+INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:6:5-40:19
+MERGED from [:geolocator_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:geolocator_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
 MERGED from [:url_launcher_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
 MERGED from [:url_launcher_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
-MERGED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
-MERGED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
-MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:36:5-42:19
-MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:36:5-42:19
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/05d1435684861c80b7352010f3878dca/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/05d1435684861c80b7352010f3878dca/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/b194e6c4c1d9062e4c1de37771123cb1/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/b194e6c4c1d9062e4c1de37771123cb1/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/Djbkay/.gradle/caches/transforms-3/8a44e3ec56e942ca26fe6c430801b79d/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/Djbkay/.gradle/caches/transforms-3/8a44e3ec56e942ca26fe6c430801b79d/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/72d73aa9f2b0d4a60d769cc82fe58f41/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/72d73aa9f2b0d4a60d769cc82fe58f41/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/8709a11930c4a5c6fc6b75ede156eb83/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/8709a11930c4a5c6fc6b75ede156eb83/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/54ee222850766ee8493ac52677574acc/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:7:5-11:19
-MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/54ee222850766ee8493ac52677574acc/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/Djbkay/.gradle/caches/transforms-3/4585a61cfea5ea1a5bef5150bbfe8bdc/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/Djbkay/.gradle/caches/transforms-3/4585a61cfea5ea1a5bef5150bbfe8bdc/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:7:5-20
+MERGED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/6c3fb20b89f9d6f1161211e6aae7463d/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/6c3fb20b89f9d6f1161211e6aae7463d/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/9d6778f03a4700660dcab90d81b9e828/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/9d6778f03a4700660dcab90d81b9e828/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/Djbkay/.gradle/caches/transforms-3/2f45d9718ce533bce4fe68ec07c120db/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/Djbkay/.gradle/caches/transforms-3/2f45d9718ce533bce4fe68ec07c120db/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/116cce451517ccfc84933ae3da7037e3/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/116cce451517ccfc84933ae3da7037e3/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/16dd45b3b0647ff8004d8d993a45fee7/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/16dd45b3b0647ff8004d8d993a45fee7/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/76fb03d2b7d16ae46542c74740cefc72/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/76fb03d2b7d16ae46542c74740cefc72/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/ebaf6a0c037f1909c9c44f4c2f44d50e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/ebaf6a0c037f1909c9c44f4c2f44d50e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/5e8ecd645d6f4a0423237369defbfd51/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/5e8ecd645d6f4a0423237369defbfd51/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:7:5-11:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:name
 		INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-48:12
-MERGED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-48:12
+ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-52:12
+MERGED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-52:12
 MERGED from [:app_links] /Users/Djbkay/Desktop/my_schoolbus_app /build/app_links/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:google_maps_flutter_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:flutter_plugin_android_lifecycle] /Users/Djbkay/Desktop/my_schoolbus_app /build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:geolocator_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
 MERGED from [:path_provider_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:shared_preferences_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:url_launcher_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-16:12
-MERGED from [androidx.browser:browser:1.8.0] /Users/Djbkay/.gradle/caches/transforms-3/4bd76a0c32aabefcdfd355161b939ac5/transformed/browser-1.8.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
-MERGED from [androidx.window:window-java:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/3ef162224f371787e5c8dc68312129f9/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
-MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:17:1-44:12
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/05d1435684861c80b7352010f3878dca/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/b194e6c4c1d9062e4c1de37771123cb1/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/Djbkay/.gradle/caches/transforms-3/8a44e3ec56e942ca26fe6c430801b79d/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
-MERGED from [androidx.fragment:fragment:1.7.1] /Users/Djbkay/.gradle/caches/transforms-3/902e93687bfec424d7d681c16d78dd10/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity:1.8.1] /Users/Djbkay/.gradle/caches/transforms-3/a1a7f2ab517b2b49983b681fd36819b8/transformed/jetified-activity-1.8.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/3ee281dfe280d95090f8ba19c801145a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/df68f699e86fc62f441f38c2956744f2/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/6da0e15fe277d03192fadf049fb88f55/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/c8104be4ee8049739ee8a5cef3e0da67/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/7b93728c23c58fb4966a93fd781d42c6/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/1561fead4024f9b9cdee719f01bdb430/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/0ffbdfcadb71e0a9d41ca802b28f6974/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/a374ebd3eb9aca2cfd2e4d2ed2f0ed1b/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/d3d604990b33abfe4e96d908d475ed42/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/8968819bfcadfd25d9ed1488e55fb43d/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/Djbkay/.gradle/caches/transforms-3/e31bf8eb61c587fe74f52284c4da4d09/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/400149c275441aff33612cbedf89d0f3/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.datastore:datastore:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/bff188d5b09622071b7a9fee42deea2c/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/72d73aa9f2b0d4a60d769cc82fe58f41/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/b6393f1bc40143c1a43b027ef1bf8c49/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/8d22c1a156b420b2675d01b81726f3fe/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/8709a11930c4a5c6fc6b75ede156eb83/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/Djbkay/.gradle/caches/transforms-3/2874df0f81244a83e147dc16d9c51e26/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/1c5f6db43d131463afca7e0462ec6152/transformed/jetified-core-1.0.0/AndroidManifest.xml:2:1-7:12
-MERGED from [org.microg:safe-parcel:1.7.0] /Users/Djbkay/.gradle/caches/transforms-3/c6eec180d8adc2ebceca45eff85e0f9d/transformed/jetified-safe-parcel-1.7.0/AndroidManifest.xml:6:1-14:12
-MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/54ee222850766ee8493ac52677574acc/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/Djbkay/.gradle/caches/transforms-3/bbfbfcd66d57b964cd3d944ae6910e1b/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/Djbkay/.gradle/caches/transforms-3/4585a61cfea5ea1a5bef5150bbfe8bdc/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/aac2416ec2473960fc5d16fafe2ddf62/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/b7134824a775d23afa028ae5cc6e9230/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.8.0] /Users/Djbkay/.gradle/caches/transforms-3/f5e097b76868932a19718a3c9cec186a/transformed/browser-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/6c3fb20b89f9d6f1161211e6aae7463d/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/e11130d4ffe5f4f2daa220bb155c7e60/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/9d6778f03a4700660dcab90d81b9e828/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/Djbkay/.gradle/caches/transforms-3/2f45d9718ce533bce4fe68ec07c120db/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/116cce451517ccfc84933ae3da7037e3/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/Djbkay/.gradle/caches/transforms-3/c6c7fcbc11bb9f662fdd3f64cc732f80/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] /Users/Djbkay/.gradle/caches/transforms-3/02a945eadc44d63da0cfc2752f4112d4/transformed/jetified-activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/9660d7c8b63eff7b64d8026cc0296814/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/9b33737a3c1fd04ebc55c547b27b762c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/14966fe5211c1390cae19fb4aea9b8a3/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/4fc3067fb58ba6a5c9f840252a0a20dc/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/0ba8247ab9cdd0cfd401b6bd98b77719/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/3e0344cec3f5b0dd552279c55c51ca0b/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/16dd45b3b0647ff8004d8d993a45fee7/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/Djbkay/.gradle/caches/transforms-3/264c9ef7de64c325795775d9620e7a35/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/72613648c315d7e464df03c10d507abd/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/b9b015d21b5c0ad77d79fbcf8286438b/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/62817b9f06206a38f376f08718af7a2f/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/cc9bf0c4b4bda3151aeea3e200e4a716/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/76fb03d2b7d16ae46542c74740cefc72/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/d6bb9931bdb267916b231806e50f1db3/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/d720f313a45e77f7a1fb6a11ab83a7ce/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/ebaf6a0c037f1909c9c44f4c2f44d50e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/Djbkay/.gradle/caches/transforms-3/5edd8558d1ba8f960523a226f7f37def/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/23ed60fdef71d68ee5ccb30d80261888/transformed/jetified-core-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/Djbkay/.gradle/caches/transforms-3/c9fd04805f9f0a7354d1946de1fbbf6e/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [org.microg:safe-parcel:1.7.0] /Users/Djbkay/.gradle/caches/transforms-3/fe83c1dc7ce2cb5f60494ae2e71a1752/transformed/jetified-safe-parcel-1.7.0/AndroidManifest.xml:6:1-14:12
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/5e8ecd645d6f4a0423237369defbfd51/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:2:1-13:12
 INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/debug/AndroidManifest.xml:1:1-7:12
 	package
 		INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-48:12
+		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-52:12
 		INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/debug/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-48:12
+		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-52:12
 		INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/debug/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-48:12
+		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:1-52:12
 		INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/debug/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:1:11-69
-queries
-ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:42:5-47:15
-MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:30:5-34:15
-MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:30:5-34:15
-intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
-ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:43:9-46:18
-action#android.intent.action.PROCESS_TEXT
-ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:44:13-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:3:5-78
 	android:name
-		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:44:21-70
+		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:3:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:4:22-78
+queries
+ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:46:5-51:15
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:30:5-34:15
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:30:5-34:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:47:9-50:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:48:13-72
+	android:name
+		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:48:21-70
 data
-ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:45:13-50
+ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:49:13-50
 	android:mimeType
-		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:45:19-48
+		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml:49:19-48
 uses-sdk
 INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/main/AndroidManifest.xml
@@ -116,80 +130,84 @@ MERGED from [:google_maps_flutter_android] /Users/Djbkay/Desktop/my_schoolbus_ap
 MERGED from [:google_maps_flutter_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_plugin_android_lifecycle] /Users/Djbkay/Desktop/my_schoolbus_app /build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_plugin_android_lifecycle] /Users/Djbkay/Desktop/my_schoolbus_app /build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:path_provider_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:path_provider_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:shared_preferences_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:shared_preferences_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:url_launcher_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:url_launcher_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.browser:browser:1.8.0] /Users/Djbkay/.gradle/caches/transforms-3/4bd76a0c32aabefcdfd355161b939ac5/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.browser:browser:1.8.0] /Users/Djbkay/.gradle/caches/transforms-3/4bd76a0c32aabefcdfd355161b939ac5/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.window:window-java:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/3ef162224f371787e5c8dc68312129f9/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
-MERGED from [androidx.window:window-java:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/3ef162224f371787e5c8dc68312129f9/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
-MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/05d1435684861c80b7352010f3878dca/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/05d1435684861c80b7352010f3878dca/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/b194e6c4c1d9062e4c1de37771123cb1/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/b194e6c4c1d9062e4c1de37771123cb1/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/Djbkay/.gradle/caches/transforms-3/8a44e3ec56e942ca26fe6c430801b79d/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/Djbkay/.gradle/caches/transforms-3/8a44e3ec56e942ca26fe6c430801b79d/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
-MERGED from [androidx.fragment:fragment:1.7.1] /Users/Djbkay/.gradle/caches/transforms-3/902e93687bfec424d7d681c16d78dd10/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment:1.7.1] /Users/Djbkay/.gradle/caches/transforms-3/902e93687bfec424d7d681c16d78dd10/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity:1.8.1] /Users/Djbkay/.gradle/caches/transforms-3/a1a7f2ab517b2b49983b681fd36819b8/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.8.1] /Users/Djbkay/.gradle/caches/transforms-3/a1a7f2ab517b2b49983b681fd36819b8/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/3ee281dfe280d95090f8ba19c801145a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/3ee281dfe280d95090f8ba19c801145a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/df68f699e86fc62f441f38c2956744f2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/df68f699e86fc62f441f38c2956744f2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/6da0e15fe277d03192fadf049fb88f55/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/6da0e15fe277d03192fadf049fb88f55/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/c8104be4ee8049739ee8a5cef3e0da67/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/c8104be4ee8049739ee8a5cef3e0da67/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/7b93728c23c58fb4966a93fd781d42c6/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/7b93728c23c58fb4966a93fd781d42c6/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/1561fead4024f9b9cdee719f01bdb430/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/1561fead4024f9b9cdee719f01bdb430/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/0ffbdfcadb71e0a9d41ca802b28f6974/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/0ffbdfcadb71e0a9d41ca802b28f6974/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/a374ebd3eb9aca2cfd2e4d2ed2f0ed1b/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/a374ebd3eb9aca2cfd2e4d2ed2f0ed1b/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/d3d604990b33abfe4e96d908d475ed42/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/d3d604990b33abfe4e96d908d475ed42/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/8968819bfcadfd25d9ed1488e55fb43d/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/8968819bfcadfd25d9ed1488e55fb43d/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/Djbkay/.gradle/caches/transforms-3/e31bf8eb61c587fe74f52284c4da4d09/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/Djbkay/.gradle/caches/transforms-3/e31bf8eb61c587fe74f52284c4da4d09/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/400149c275441aff33612cbedf89d0f3/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/400149c275441aff33612cbedf89d0f3/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.datastore:datastore:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/bff188d5b09622071b7a9fee42deea2c/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.datastore:datastore:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/bff188d5b09622071b7a9fee42deea2c/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/72d73aa9f2b0d4a60d769cc82fe58f41/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/72d73aa9f2b0d4a60d769cc82fe58f41/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/b6393f1bc40143c1a43b027ef1bf8c49/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/b6393f1bc40143c1a43b027ef1bf8c49/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/8d22c1a156b420b2675d01b81726f3fe/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/8d22c1a156b420b2675d01b81726f3fe/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/8709a11930c4a5c6fc6b75ede156eb83/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/8709a11930c4a5c6fc6b75ede156eb83/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/Djbkay/.gradle/caches/transforms-3/2874df0f81244a83e147dc16d9c51e26/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/Djbkay/.gradle/caches/transforms-3/2874df0f81244a83e147dc16d9c51e26/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/1c5f6db43d131463afca7e0462ec6152/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/1c5f6db43d131463afca7e0462ec6152/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
-MERGED from [org.microg:safe-parcel:1.7.0] /Users/Djbkay/.gradle/caches/transforms-3/c6eec180d8adc2ebceca45eff85e0f9d/transformed/jetified-safe-parcel-1.7.0/AndroidManifest.xml:10:5-12:41
-MERGED from [org.microg:safe-parcel:1.7.0] /Users/Djbkay/.gradle/caches/transforms-3/c6eec180d8adc2ebceca45eff85e0f9d/transformed/jetified-safe-parcel-1.7.0/AndroidManifest.xml:10:5-12:41
-MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/54ee222850766ee8493ac52677574acc/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/54ee222850766ee8493ac52677574acc/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/Djbkay/.gradle/caches/transforms-3/bbfbfcd66d57b964cd3d944ae6910e1b/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/Djbkay/.gradle/caches/transforms-3/bbfbfcd66d57b964cd3d944ae6910e1b/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/Djbkay/.gradle/caches/transforms-3/4585a61cfea5ea1a5bef5150bbfe8bdc/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/Djbkay/.gradle/caches/transforms-3/4585a61cfea5ea1a5bef5150bbfe8bdc/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/aac2416ec2473960fc5d16fafe2ddf62/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/aac2416ec2473960fc5d16fafe2ddf62/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/b7134824a775d23afa028ae5cc6e9230/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/b7134824a775d23afa028ae5cc6e9230/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.8.0] /Users/Djbkay/.gradle/caches/transforms-3/f5e097b76868932a19718a3c9cec186a/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/Djbkay/.gradle/caches/transforms-3/f5e097b76868932a19718a3c9cec186a/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/6c3fb20b89f9d6f1161211e6aae7463d/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/6c3fb20b89f9d6f1161211e6aae7463d/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/e11130d4ffe5f4f2daa220bb155c7e60/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/e11130d4ffe5f4f2daa220bb155c7e60/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/9d6778f03a4700660dcab90d81b9e828/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/9d6778f03a4700660dcab90d81b9e828/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/Djbkay/.gradle/caches/transforms-3/2f45d9718ce533bce4fe68ec07c120db/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/Djbkay/.gradle/caches/transforms-3/2f45d9718ce533bce4fe68ec07c120db/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/116cce451517ccfc84933ae3da7037e3/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/116cce451517ccfc84933ae3da7037e3/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/Djbkay/.gradle/caches/transforms-3/c6c7fcbc11bb9f662fdd3f64cc732f80/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/Djbkay/.gradle/caches/transforms-3/c6c7fcbc11bb9f662fdd3f64cc732f80/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/Djbkay/.gradle/caches/transforms-3/02a945eadc44d63da0cfc2752f4112d4/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/Djbkay/.gradle/caches/transforms-3/02a945eadc44d63da0cfc2752f4112d4/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/9660d7c8b63eff7b64d8026cc0296814/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/9660d7c8b63eff7b64d8026cc0296814/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/9b33737a3c1fd04ebc55c547b27b762c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/9b33737a3c1fd04ebc55c547b27b762c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/14966fe5211c1390cae19fb4aea9b8a3/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/14966fe5211c1390cae19fb4aea9b8a3/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/4fc3067fb58ba6a5c9f840252a0a20dc/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/4fc3067fb58ba6a5c9f840252a0a20dc/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/0ba8247ab9cdd0cfd401b6bd98b77719/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/0ba8247ab9cdd0cfd401b6bd98b77719/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/3e0344cec3f5b0dd552279c55c51ca0b/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/3e0344cec3f5b0dd552279c55c51ca0b/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/16dd45b3b0647ff8004d8d993a45fee7/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/16dd45b3b0647ff8004d8d993a45fee7/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/Djbkay/.gradle/caches/transforms-3/264c9ef7de64c325795775d9620e7a35/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/Djbkay/.gradle/caches/transforms-3/264c9ef7de64c325795775d9620e7a35/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/72613648c315d7e464df03c10d507abd/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/72613648c315d7e464df03c10d507abd/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/b9b015d21b5c0ad77d79fbcf8286438b/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/b9b015d21b5c0ad77d79fbcf8286438b/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/62817b9f06206a38f376f08718af7a2f/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/62817b9f06206a38f376f08718af7a2f/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/cc9bf0c4b4bda3151aeea3e200e4a716/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/cc9bf0c4b4bda3151aeea3e200e4a716/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/76fb03d2b7d16ae46542c74740cefc72/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/76fb03d2b7d16ae46542c74740cefc72/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/d6bb9931bdb267916b231806e50f1db3/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/d6bb9931bdb267916b231806e50f1db3/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/d720f313a45e77f7a1fb6a11ab83a7ce/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/d720f313a45e77f7a1fb6a11ab83a7ce/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/ebaf6a0c037f1909c9c44f4c2f44d50e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/ebaf6a0c037f1909c9c44f4c2f44d50e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/Djbkay/.gradle/caches/transforms-3/5edd8558d1ba8f960523a226f7f37def/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/Djbkay/.gradle/caches/transforms-3/5edd8558d1ba8f960523a226f7f37def/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/23ed60fdef71d68ee5ccb30d80261888/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/Djbkay/.gradle/caches/transforms-3/23ed60fdef71d68ee5ccb30d80261888/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/Djbkay/.gradle/caches/transforms-3/c9fd04805f9f0a7354d1946de1fbbf6e/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/Djbkay/.gradle/caches/transforms-3/c9fd04805f9f0a7354d1946de1fbbf6e/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [org.microg:safe-parcel:1.7.0] /Users/Djbkay/.gradle/caches/transforms-3/fe83c1dc7ce2cb5f60494ae2e71a1752/transformed/jetified-safe-parcel-1.7.0/AndroidManifest.xml:10:5-12:41
+MERGED from [org.microg:safe-parcel:1.7.0] /Users/Djbkay/.gradle/caches/transforms-3/fe83c1dc7ce2cb5f60494ae2e71a1752/transformed/jetified-safe-parcel-1.7.0/AndroidManifest.xml:10:5-12:41
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/5e8ecd645d6f4a0423237369defbfd51/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/5e8ecd645d6f4a0423237369defbfd51/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:5:5-44
 INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -200,10 +218,20 @@ INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/debug/Andr
 		INJECTED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/debug/AndroidManifest.xml:6:5-66
-MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:24:5-67
 	android:name
 		ADDED from /Users/Djbkay/Desktop/my_schoolbus_app /android/app/src/debug/AndroidManifest.xml:6:22-64
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:56
+	android:enabled
+		ADDED from [:geolocator_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-35
+	android:exported
+		ADDED from [:geolocator_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [:geolocator_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-77
 activity#io.flutter.plugins.urllauncher.WebViewActivity
 ADDED from [:url_launcher_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
 	android:exported
@@ -213,132 +241,132 @@ ADDED from [:url_launcher_android] /Users/Djbkay/Desktop/my_schoolbus_app /build
 	android:name
 		ADDED from [:url_launcher_android] /Users/Djbkay/Desktop/my_schoolbus_app /build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
 uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
+ADDED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/6c3fb20b89f9d6f1161211e6aae7463d/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
 	android:required
-		ADDED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
+		ADDED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/6c3fb20b89f9d6f1161211e6aae7463d/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
+		ADDED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/6c3fb20b89f9d6f1161211e6aae7463d/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
 uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
+ADDED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/6c3fb20b89f9d6f1161211e6aae7463d/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
 	android:required
-		ADDED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
+		ADDED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/6c3fb20b89f9d6f1161211e6aae7463d/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/ac5ea9a8b6fd31385d98c2d53414b07d/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
+		ADDED from [androidx.window:window:1.2.0] /Users/Djbkay/.gradle/caches/transforms-3/6c3fb20b89f9d6f1161211e6aae7463d/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:23:5-79
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:23:22-76
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:23:22-76
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:26:5-28:35
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:27:9-41
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:27:9-41
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:28:9-32
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:28:9-32
 package#com.google.android.apps.maps
-ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:9-64
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:9-64
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:18-61
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:18-61
 uses-library#org.apache.http.legacy
-ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:39:9-41:40
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:39:9-41:40
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:41:13-37
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:41:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/134ddd8ff050f3af3828456e701f6199/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:40:13-50
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/Djbkay/.gradle/caches/transforms-3/02f5535a8fa91fd9113957217c9ded1d/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:40:13-50
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/05d1435684861c80b7352010f3878dca/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/9d6778f03a4700660dcab90d81b9e828/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:20:9-22:45
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/05d1435684861c80b7352010f3878dca/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/9d6778f03a4700660dcab90d81b9e828/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:22:19-43
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/05d1435684861c80b7352010f3878dca/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/9d6778f03a4700660dcab90d81b9e828/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:21:19-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/Djbkay/.gradle/caches/transforms-3/05d1435684861c80b7352010f3878dca/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/9d6778f03a4700660dcab90d81b9e828/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:20:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/Djbkay/.gradle/caches/transforms-3/8a44e3ec56e942ca26fe6c430801b79d/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/54ee222850766ee8493ac52677574acc/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:8:9-10:69
-MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/54ee222850766ee8493ac52677574acc/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:8:9-10:69
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/116cce451517ccfc84933ae3da7037e3/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/5e8ecd645d6f4a0423237369defbfd51/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] /Users/Djbkay/.gradle/caches/transforms-3/5e8ecd645d6f4a0423237369defbfd51/transformed/jetified-android-maps-utils-3.6.0/AndroidManifest.xml:8:9-10:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/Djbkay/.gradle/caches/transforms-3/8a44e3ec56e942ca26fe6c430801b79d/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/116cce451517ccfc84933ae3da7037e3/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/Djbkay/.gradle/caches/transforms-3/8a44e3ec56e942ca26fe6c430801b79d/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
-	android:name
-		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
-permission#com.example.my_map.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
-	android:name
-		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
-uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
-uses-permission#com.example.my_map.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/54a4cfbaad86b9ab2273ca8263e4a153/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/Djbkay/.gradle/caches/transforms-3/116cce451517ccfc84933ae3da7037e3/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/72d73aa9f2b0d4a60d769cc82fe58f41/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/72d73aa9f2b0d4a60d769cc82fe58f41/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/16dd45b3b0647ff8004d8d993a45fee7/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/76fb03d2b7d16ae46542c74740cefc72/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/Djbkay/.gradle/caches/transforms-3/76fb03d2b7d16ae46542c74740cefc72/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:28:13-31
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/16dd45b3b0647ff8004d8d993a45fee7/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:26:13-68
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/16dd45b3b0647ff8004d8d993a45fee7/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/16dd45b3b0647ff8004d8d993a45fee7/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:25:13-67
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/16dd45b3b0647ff8004d8d993a45fee7/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:25:13-67
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/16dd45b3b0647ff8004d8d993a45fee7/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/16dd45b3b0647ff8004d8d993a45fee7/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/f278e58515e8cfd3d9ddee03ef955ede/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/Djbkay/.gradle/caches/transforms-3/16dd45b3b0647ff8004d8d993a45fee7/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.example.my_map.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.my_map.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/Djbkay/.gradle/caches/transforms-3/80e0d609fc443f4c0564917d219ce888/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/6ea3fe485a2777491d24973851e37227/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/Djbkay/.gradle/caches/transforms-3/c47d07ec052b1fb0a34ac751827d68e0/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
